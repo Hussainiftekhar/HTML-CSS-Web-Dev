@@ -1,0 +1,90 @@
+ h2{
+    color: blue;
+    text-align: center;
+
+}
+
+p{
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+
+}
+#amz{
+    color: rgb(19, 27, 4);
+    background-color: rgb(143, 135, 150);
+}
+strong{
+    background-color: aquamarine;
+
+}
+h3{
+    color: black;
+    background-color: seagreen;
+}
+img{
+   align-items: centers;
+}
+abbr{
+    background-color: black;
+    color: aliceblue;
+}
+*{
+    text-decoration: none;
+}
+.navbar{
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;padding-left: 15px;padding-right: 15px;
+}
+.navdiv{
+    display: flex;align-items: center;justify-content: space-between;
+}
+span{
+    color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
+}
+.img_deg{
+    float:right;
+    width: 10%;
+}
+.tab{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+.head{
+    color: wheat;
+    background-color: black;
+}
+.head_1{
+    color: antiquewhite;
+    background-color: black;
+}
+.green{
+    background-color: lightgreen;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.vid_head{
+    color: black;
+}
+.add_1{
+    color: black;
+    text-align: left;
+}
+.con_ba{
+    text-align: initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fm{
+    text-align:initial;
+}
+.Name{
+    text-align:left ;
+
+}
+   
